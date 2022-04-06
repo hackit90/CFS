@@ -1,33 +1,38 @@
 # CFS
 Community Funded Science
-“A block-chain based foundation which is owned and led by its community.”
+“A block-chain based foundation which is owned and directed by its community.”
 
 ## Abstract
-Knowledge is embedded and owned in the culture which produces it.
+Knowledge is embedded and owned by the culture which produces it.
 
-In a market driven economy, the production of knowledge is driven by companies who try to get ahead their competitors.
-While this may lead to innovation and grow in an economy, certain sectors will get short on attention.
-If something is not profitable or able to patent, it will not be researched because nobody will pay the scientist to do it.
+In the past, when man evolved to an agricultural lifestyle certain inventions lead to higher producitivty. This resultet in only 9 out of 10 people being required to cover the needs of the community. This one person who was rendered obselete, could then spend his time in improving the lifes of all further trough thinking work. This work that would produce further innovations and improvements for all, was covered and financed by the his fellow man. 
+In this moment the concept of university was born and scientists were supported and funded by their society.
 
-As men evolved to an agricultural lifestyle certain inventions lead to higher production and output. Due to this innovation, only 9 people were needed to fulfil the work of 10.
-The saved worker was set aside, to find other ways of improvement. 
-At this moment, the concept of university was born and scientists were supported and funded by their society.
+Today, in a market driven economy, the production of knowledge is driven by profit. A company or a society try to have an economic edge compared to the competition.
+While this certainly leads to innovation and growt in an economy, and consequently society, certain topics or sectors are ignored.
+If something is not profitable or able to be patented, it will not be researched because nobody will pay the researcher to do it.
 
-Blockchain technology allows to build a foundation which is owned and led by its members. People contribute to the network in donating capital and engaging in the voting process.
-Every participant is allowed to propose projects, which needed be researched.
-The whole community then votes for the projects, which then will be funded.
+This shortcomming of todays research could be minimized with modern methods
+The blockchain technology would enables the building of a foundation which is owned and led by its members. People contribute to the network in donating capital and engaging in a voting process.
+Every member is allowed to propose projects, i.e. research questions, which could be researched.
+The whole community then votes for the projects, democratically selecting which will be funded.
 
 Scientists and universities will be working for the foundation without any conflict of interest.
-«Parallel encapsulated research» will bring independent results while variation in search-results needs to be cleared out, in order to get the full amount of the salary.
-Projects will be funded in stages.
 
 ## Example: «Parallel encapsulated research»
-Three groups get the approval to do a certain research.
-Three different scientist get the task to control the results.
-30% of the money, approved by the foundation, will be retained in the foundation.
-When the research results are presented, the control group is going to work on it.
-If there are faults or opposite conclusions, the control group will publish these.
-After a defence round of the research group, the network will decide if the research-group or the control group was right and who is getting the 30%, which was retained.
+Three groups get the approval to do certain research.
+Three different scientist get the task to review any results.
+Up front, only part of the funds are released, to ensure that research costs are covered.
+When first results are produced these are presented to the independent peer review process.
+If there are incompatible conclusions or questionable results, the peers can present these.
+The researchers can then defend their results and further elaborate.
+Finally the network will decide which reaserch group was in the right based on the decision the rest of the funds could be released.
+
+«Parallel encapsulated research» will produce independent results which can further increase research output trough meta studies as well as verfy the results, increasing trust in the results and process. 
+
+Projects will be funded in stages.
+
+
 
 ## Quality Control
 
